@@ -6,14 +6,14 @@
     <data>
         <variable
             name="club"
-            type="com.example.clubepl.screens.Club.ClubViewModel" />
+            type="com.example.clubepl.screens.club.ClubViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/background_all"
-        tools:context=".screens.Club.ClubFragment">
+        tools:context=".screens.club.ClubFragment">
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rvClubEpl"

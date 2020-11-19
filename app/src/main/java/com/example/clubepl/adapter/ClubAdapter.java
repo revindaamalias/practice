@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.clubepl.databinding.ItemClubBinding;
 import com.example.clubepl.model.Club;
-import com.example.clubepl.screens.Club.OnItemClubListener;
+import com.example.clubepl.screens.club.OnItemClubListener;
 
 import java.util.List;
 

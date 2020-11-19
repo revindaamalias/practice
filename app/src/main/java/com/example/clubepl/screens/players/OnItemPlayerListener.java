@@ -1,4 +1,4 @@
-package com.example.clubepl.screens.Players;
+package com.example.clubepl.screens.players;
 
 import com.example.clubepl.model.Player;
 

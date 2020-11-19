@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/clubFragment"
-        android:name="com.example.clubepl.screens.Club.ClubFragment"
+        android:name="com.example.clubepl.screens.club.ClubFragment"
         android:label="fragment_club"
         tools:layout="@layout/fragment_club" >
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/playersFragment"
-        android:name="com.example.clubepl.screens.Players.PlayersFragment"
+        android:name="com.example.clubepl.screens.players.PlayersFragment"
         android:label="fragment_players"
         tools:layout="@layout/fragment_players" >
         <argument

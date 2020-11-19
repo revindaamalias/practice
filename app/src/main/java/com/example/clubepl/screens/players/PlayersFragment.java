@@ -1,4 +1,4 @@
-package com.example.clubepl.screens.Players;
+package com.example.clubepl.screens.players;
 
 import android.os.Bundle;
 
@@ -89,6 +89,13 @@ public class PlayersFragment extends Fragment {
             playerList.add(new Player("Robin Olsen"));
             playerList.add(new Player("Séamus Coleman"));
             playerList.add(new Player("\tMuhamed Besic"));
+        }else if (clubEpl.getImage() == R.drawable.manchester) {
+            playerList.add(new Player("Paul Pogba"));
+            playerList.add(new Player("Bruno Fernandes"));
+            playerList.add(new Player("Edinson Canvani"));
+            playerList.add(new Player("Alex Telles"));
+            playerList.add(new Player("Marcus Rashford"));
+            playerList.add(new Player("Mason Greenwood"));
         }
         PlayerViewModelFactory playerViewModelFactory = new PlayerViewModelFactory(playerList);
         playersViewModel = new ViewModelProvider(this, playerViewModelFactory).get(PlayersViewModel.class);

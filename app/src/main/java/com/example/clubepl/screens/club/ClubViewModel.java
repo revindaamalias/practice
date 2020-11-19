@@ -1,4 +1,4 @@
-package com.example.clubepl.screens.Club;
+package com.example.clubepl.screens.club;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

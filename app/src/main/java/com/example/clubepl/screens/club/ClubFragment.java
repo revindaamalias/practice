@@ -1,4 +1,4 @@
-package com.example.clubepl.screens.Club;
+package com.example.clubepl.screens.club;
 
 import android.os.Bundle;
 
@@ -39,6 +39,7 @@ public class ClubFragment extends Fragment {
         // Inflate the layout for this fragment
         List<Club> clubEpls = new ArrayList<>();
         clubEpls.add(new Club(R.drawable.arsenalfc, false));
+        clubEpls.add(new Club(R.drawable.manchester, false));
         clubEpls.add(new Club(R.drawable.efc,false));
         clubEpls.add(new Club(R.drawable.lvfc,false));
         clubEpls.add(new Club(R.drawable.wlfc,false));

@@ -1,4 +1,4 @@
-package com.example.clubepl.screens.Players;
+package com.example.clubepl.screens.players;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;

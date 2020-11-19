@@ -1,4 +1,4 @@
-package com.example.clubepl.screens.Club;
+package com.example.clubepl.screens.club;
 
 import com.example.clubepl.model.Club;
 

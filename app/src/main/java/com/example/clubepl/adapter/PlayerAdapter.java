@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.clubepl.databinding.ItemPlayerBinding;
 import com.example.clubepl.model.Player;
-import com.example.clubepl.screens.Players.OnItemPlayerListener;
+import com.example.clubepl.screens.players.OnItemPlayerListener;
 
 import java.util.List;
 

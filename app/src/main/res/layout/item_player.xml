@@ -8,7 +8,7 @@
             type="com.example.clubepl.model.Player" />
         <variable
             name="playerListener"
-            type="com.example.clubepl.screens.Players.OnItemPlayerListener" />
+            type="com.example.clubepl.screens.players.OnItemPlayerListener" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
